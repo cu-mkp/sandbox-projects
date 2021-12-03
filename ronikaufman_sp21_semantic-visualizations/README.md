@@ -30,7 +30,7 @@ The titles of the files and the title that appears on the visualization is a use
 | How similar is the author-practitioner’s vocabulary in the context of talking about two different topics [<manuscript>] | +- 10 context words surrounding the tag with duplicates and stopwords removed for a single manuscript  |
 | How similar is the author-practitioner’s vocabulary when talking about two different topics [<manuscript>]| Text contained in the tag with duplicates and stopwords removed for a single manuscript |
 | How similar is the author-practitioner's vocabulary in the context of talking about two different topics [<manuscript 1>-<manuscript 2>]  | +- 10 context words surrounding the tag with duplicates and stopwords removed for each manuscript |
-| How similar is the author-practitioner's vocabulary in when talking about two different topics [<manuscript 1>-<manuscript 2>]  | How similar is the author-practitioner's vocabulary in when talking about two different topics [<manuscript 1>-<manuscript 2>]
+| How similar is the author-practitioner's vocabulary in when talking about two different topics [<manuscript 1>-<manuscript 2>]  | 
 Text contained in the tag with duplicates and stopwords removed for each version of the  manuscript|
 	
 
