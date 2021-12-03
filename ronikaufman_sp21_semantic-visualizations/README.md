@@ -25,9 +25,10 @@ The symmetrical component comes from how many terms the data has in common, or m
 
 The titles of the files and the title that appears on the visualization is a useful way to identify which heatmap reflects which vocabulary and difference. 
 
-| Graph Title | Vocabulary |
-| ----------    ---------  |
-|                          |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 The legend of each map tells you whether the map is symmetrical or asymmetrical. The symmetrical legends are labeled “Percentage of identical words.” The asymmetrical legends are labeled “Percentage of included words.”
 
