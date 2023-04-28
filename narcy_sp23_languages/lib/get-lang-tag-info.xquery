@@ -1,6 +1,8 @@
 (: This XQuery script selects elements "la", "de", "el", "it", "oc", "po" in the document, and returns information about them :)
 (: This information includes the id of the ancestor div element, the local name of the current element, the text content of the :)
 (: ancestor head element, the categories attribute of the ancestor div element, and the local names of the current element's parent elements :)
+(: this file was copied from at: https://github.com/cu-mkp/m-k-manuscript-data/blob/master/lib/get-lang-tag-info.xquery :)
+(: run over the "all" xml files in https://github.com/cu-mkp/m-k-manuscript-data/tree/master/allFolios/xml :)
 
 (: Select all the "la", "de", "el", "it", "oc", "po" elements in the document :)
 for $lang in //(la | de | el | it | oc | po)
