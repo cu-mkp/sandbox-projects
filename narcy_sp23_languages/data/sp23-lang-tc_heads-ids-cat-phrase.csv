@@ -1,5 +1,5 @@
-entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged phrase
- p001r_2,la,Liste,lists,all,div,ab,Sacra Eleusinæ deæ propalare nefas
+mentry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged phrase
+ p001r_2,la,Liste,lists,all,div,ab,Sacra EleusinÃ¦ deÃ¦ propalare nefas
  p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,Mathemat. Ingolstadiensis Comment. urb. rom.
  p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,de aucupio et venatione
  p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,de rebus persarum
@@ -9,13 +9,13 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,miscell.
  p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,onomast.
  p001r_3,la,Liste de livres et d'autheurs,lists,div,ab,add,cum permultis aliis
- p001r_4,la,Liste de livres,lists,div,ab,emph,Aquatilium animalium historiæ hypolito salviano typhernate authore Romæ
+ p001r_4,la,Liste de livres,lists,div,ab,emph,Aquatilium animalium historiÃ¦ hypolito salviano typhernate authore RomÃ¦
  p002r_1,la,Livres a recouvrer,lists,all,div,ab,in Exegesi
  p002v_1,it,Liste de livres,lists,div,ab,emph,Practica cioe nova inventionedi contegiare stampata in bresciaper vincenzo sabio
- p003r_3,la,,varnish,div,ab,m,pix græca
+ p003r_3,la,,varnish,div,ab,m,pix grÃ¦ca
  p003r_3,po,,varnish,all,div,ab,enveler
  p006r_1,la,Pour poser et assoir dor bruny et donner rouge ou verd ou bleud,painting,div,ab,m,boli armeni
- p007v_4,la,Contre gonhorrea,medicine,all,div,ab,"Aquæ fabrorum antiquæ lb i. boli armeniæ in tel tenuissimum pollinem redactæ ?.i. mellis communis ?.iii. coquantur ad mellis despumationem Tum refrigerata, colentur cum forti expressione &amp; de colatura utatur per injectionem"
+ p007v_4,la,Contre gonhorrea,medicine,all,div,ab,"AquÃ¦ fabrorum antiquÃ¦ lb i. boli armeniÃ¦ in tel tenuissimum pollinem redactÃ¦ ?.i. mellis communis ?.iii. coquantur ad mellis despumationem Tum refrigerata, colentur cum forti expressione &amp; de colatura utatur per injectionem"
  p009r_1,oc,Laboureur,cultivation,div,ab,pa,pomole
  p009v_3,oc,Brouillart,merchants,all,div,ab,Mudat
  p009v_3,oc,Brouillart,merchants,all,div,ab,Mudat
@@ -23,7 +23,7 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p012r_2,oc,Chimolee,casting,ab,m,pro,parayres
  p013r_2,la,Pour taindre,dyeing,div,ab,emph,non bona
  p013v_4,el,Serpens,animal husbandry;household and daily life,all,div,ab,??? ???
- p013v_4,el,Serpens,animal husbandry;household and daily life,all,div,ab,ïon
+ p013v_4,el,Serpens,animal husbandry;household and daily life,all,div,ab,Ã¯on
  p013v_5,oc,Chandelles,tool;household and daily life,div,ab,env,haultan
  p014r_1,po,Pour murailles de terre et bastiment rustique,household and daily life,div,ab,tl,palle baisse
  p014r_1,po,Pour murailles de terre et bastiment rustique,household and daily life,all,div,ab,appillent
@@ -36,7 +36,7 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p020r_1,oc,Pour faire les Millas,household and daily life,div,ab,m,millas
  p020v_3,oc,Eschervis racine,cultivation,div,ab,env,rodier
  p021v_2,oc,Deffense dune ville,arms and armor,div,ab,tl,crusol
- p031r_2,la,Eaulx coulourees,metal process,div,ab,m,æs ustum
+ p031r_2,la,Eaulx coulourees,metal process,div,ab,m,Ã¦s ustum
  p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
  p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
  p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
@@ -138,9 +138,9 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p120r_2,la,,,div,ab,m,crocum
  p120v_1,la,Crocum ferri,casting;medicine,div,head,m,Crocum ferri
  p120v_1,la,Crocum ferri,casting;medicine,div,ab,m,crocum ferri
- p120v_3,la,Fayre courre largent,casting,div,ab,m,æs ustum
+ p120v_3,la,Fayre courre largent,casting,div,ab,m,Ã¦s ustum
  p120v_3,la,Fayre courre largent,casting,div,ab,m,crocum
- p120v_3,la,Fayre courre largent,casting,div,ab,m,æs ustum
+ p120v_3,la,Fayre courre largent,casting,div,ab,m,Ã¦s ustum
  p120v_3,la,Fayre courre largent,casting,div,ab,emph,Siscitatio dubia
  p120v_6,po,,preserving,div,ab,pa,boufains
  p120v_6,la,,preserving,all,div,ab,ranunculus
@@ -159,7 +159,7 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p123r_1,oc,,metal process,div,ab,tl,crusol
  p123r_1,po,,metal process,all,div,ab,tourtelles
  p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,la,,metal process,div,ab,m,æs ustum
+ p123r_1,la,,metal process,div,ab,m,Ã¦s ustum
  p123r_1,po,,metal process,all,div,ab,tourtelle
  p123r_1,oc,,metal process,div,ab,tl,crusol
  p126v_1,la,Crocum ferri,casting,div,head,m,Crocum ferri
@@ -218,27 +218,27 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p154r_4,la,Escaille de fer,metal process,div,ab,m,crocum
  p157r_4,oc,Disposer lherbe ou fleur pour gecter,casting,all,div,ab,a lenssus
  p158r_1,la,Mercure dans les moules a nettoyer,casting,ab,m,m,crocum
- p161r_1,la,Præparation du sable pour chassis,casting,ab,m,m,lateribus
- p161r_1,la,Præparation du sable pour chassis,casting,ab,m,m,alume jameni
- p161r_1,la,Præparation du sable pour chassis,casting,ab,del,add,nota
- p161r_1,la,Præparation du sable pour chassis,casting,div,ab,add,nota
+ p161r_1,la,PrÃ¦paration du sable pour chassis,casting,ab,m,m,lateribus
+ p161r_1,la,PrÃ¦paration du sable pour chassis,casting,ab,m,m,alume jameni
+ p161r_1,la,PrÃ¦paration du sable pour chassis,casting,ab,del,add,nota
+ p161r_1,la,PrÃ¦paration du sable pour chassis,casting,div,ab,add,nota
  p161r_1,la,,,div,ab,emph,nota
  p161r_1,la,,,div,ab,emph,nota
  p161v_1,la,Crocum ferri,metal process,div,head,m,Crocum ferri
  p162r_1,el,Pour la boutique,La boutique,all,div,ab,Clio
  p162r_1,el,,La boutique,all,div,ab,Clio
  p162r_1,la,,La boutique,all,div,ab,pateras aureas sex pondo 30 talentorum
- p162r_1,la,,La boutique,all,div,ab,pateram ex ferro compactilem apud delphos dedicavit spectatu dignam inter omnia quæ sunt delphis donaria opus Glauci Chii qui solus omnium compactionem ferri excogitavit compactile ferrum
+ p162r_1,la,,La boutique,all,div,ab,pateram ex ferro compactilem apud delphos dedicavit spectatu dignam inter omnia quÃ¦ sunt delphis donaria opus Glauci Chii qui solus omnium compactionem ferri excogitavit compactile ferrum
  p162r_2,la,Aes ustum,casting,div,head,m,Aes ustum
  p162r_2,la,Aes ustum,casting,div,ab,m,Crocum
  p163v_2,la,Crocum,metal process,div,head,m,Crocum
- p163v_2,la,Crocum,metal process,div,ab,m,æs ustum
+ p163v_2,la,Crocum,metal process,div,ab,m,Ã¦s ustum
  p164r_4,oc,Soufler,casting;metal process,div,ab,tl,crusole
  p164v_2,la,Sable,casting,div,ab,m,crocum
  p164v_2,la,Sable,casting,div,ab,m,crocum
  p166r_1,la,Pour la boutique,La boutique,all,div,ab,nullum est jam dictum quod non dictum aut factum sit prius
- p166r_1,la,Pour la boutique,La boutique,all,div,ab,Apollo a Chirone medicari didicit &amp; tamen Deus medicinæ habitus
- p166r_1,la,Pour la boutique,La boutique,all,div,ab,Homerus orphei poema imitatus est Nam cum Orpheus sic prius exorsus esset Iram cane deam dea Cereris frugiferentis Ita reddit homerus Iram cane dea Pelidæ achillis In Justino martire circa princip.
+ p166r_1,la,Pour la boutique,La boutique,all,div,ab,Apollo a Chirone medicari didicit &amp; tamen Deus medicinÃ¦ habitus
+ p166r_1,la,Pour la boutique,La boutique,all,div,ab,Homerus orphei poema imitatus est Nam cum Orpheus sic prius exorsus esset Iram cane deam dea Cereris frugiferentis Ita reddit homerus Iram cane dea PelidÃ¦ achillis In Justino martire circa princip.
  p166r_1,la,,La boutique,all,div,ab,in Sinopsi
  p166r_1,la,,La boutique,all,div,ab,parvus eram
  p166r_1,la,,La boutique,div,ab,del,Manus me?
@@ -252,13 +252,13 @@ entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged 
  p167r_1,oc,,arms and armor,div,ab,tl,birons
  p167r_1,oc,,arms and armor,div,ab,tl,virons
  p167r_1,po,,arms and armor,div,ab,tl,vertuelle
- p169r_1,la,Liste de procédés,lists,div,ab,pa,capilli veneris
+ p169r_1,la,Liste de procÃ©dÃ©s,lists,div,ab,pa,capilli veneris
  p170v_2,la,Contre peste,medicine,all,div,ab,Othonis Episcopi frisigensis ab orbe condito
  p170v_3,la,Pour preserver,medicine,all,div,ab,Acetum paratum ex ruta baccis juniperi simul tusis Eo aceto extinguantur lateres igniti Et vapor excipiatur ore &amp; naribus
  p170v_3,la,Pour preserver,medicine,all,div,ab,Abbatis Uspergensis Chronic.
  p170v_3,la,Pour preserver,medicine,div,ab,emph,Hyeronimus mercurialis variarum
  p170v_4,la,Liste de livres,lists,div,ab,emph,Rerum scoticarum historia Georgio Bucanano auth.
- p170v_4,la,Liste de livres,lists,div,ab,emph,Rembertus Dodonæus mechliniensis medicus de stirpium historia
+ p170v_4,la,Liste de livres,lists,div,ab,emph,Rembertus DodonÃ¦us mechliniensis medicus de stirpium historia
  p170v_4,la,Liste de livres,lists,div,ab,emph,Tilesius de coloribus Vascosan
- p170v_4,la,Liste de livres,lists,div,ab,emph,Marmodæus ge de lapillis præciosis
+ p170v_4,la,Liste de livres,lists,div,ab,emph,MarmodÃ¦us ge de lapillis prÃ¦ciosis
  p170v_4,la,Liste de livres,lists,ab,ups,emph,Albertus magnus de mineralibus
