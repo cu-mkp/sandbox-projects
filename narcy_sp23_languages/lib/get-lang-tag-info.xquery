@@ -24,5 +24,7 @@ for $lang in //(la | de | el | it | oc | po)
   let $parent2 := $lang/parent::*/parent::*/local-name()
   let $parent3 := $lang/parent::*/parent::*/parent::*/local-name()
   
+  order by $id
+  
   (: Concatenate all the tag info and return it as a string with line break at the end, i.e., a csv record :)
-  return concat($id,':',$lang-name,':',normalize-space($head),':',$categories,':',$parent3,':',$parent2,':',$parent1,':',normalize-space($lang),'&#10;')
+  return concat($id,':',$lang-name,':',normalize-space($head),':',$categories,':',$parent3,':',$parent2,':',$parent1,':', '"', normalize-space($lang), '"','&#10;')
