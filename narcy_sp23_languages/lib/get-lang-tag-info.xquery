@@ -1,4 +1,4 @@
-(: This XQuery script selects elements "la", "de", "el", "it", "oc", "po" in the document, and returns information about them :)
+(: This XQuery script selects elements "la", "de", "el", "it", "oc", "po" in a M&K "allFolios" xml document, and returns a csv file with info about each language tag occurrence :)
 (: This information includes the id of the ancestor div element, the local name of the current element, the text content of the :)
 (: ancestor head element, the categories attribute of the ancestor div element, and the local names of the current element's parent elements :)
 
@@ -24,5 +24,5 @@ for $lang in //(la | de | el | it | oc | po)
   let $parent2 := $lang/parent::*/parent::*/local-name()
   let $parent3 := $lang/parent::*/parent::*/parent::*/local-name()
   
-  (: Concatenate all the information and return it as a string with line break at the end :)
+  (: Concatenate all the tag info and return it as a string with line break at the end, i.e., a csv record :)
   return concat($id,':',$lang-name,':',normalize-space($head),':',$categories,':',$parent3,':',$parent2,':',$parent1,':',normalize-space($lang),'&#10;')
