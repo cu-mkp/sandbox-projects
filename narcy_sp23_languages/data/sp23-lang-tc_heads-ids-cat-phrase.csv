@@ -1,264 +1,263 @@
-entry id,language,head,categories,parent tag 3,parent tag 2,parent tag 1,tagged phrase
- p001r_2,la,Liste,lists,all,div,ab,Sacra Eleusinæ deæ propalare nefas
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,Mathemat. Ingolstadiensis Comment. urb. rom.
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,de aucupio et venatione
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,de rebus persarum
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,historicus gentilis qui de rebus davidis &amp; salomonis scripsit
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,Thebaidos
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,in Aeneid.
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,miscell.
- p001r_3,la,Liste de livres et d'autheurs,lists,all,div,ab,onomast.
- p001r_3,la,Liste de livres et d'autheurs,lists,div,ab,add,cum permultis aliis
- p001r_4,la,Liste de livres,lists,div,ab,emph,Aquatilium animalium historiæ hypolito salviano typhernate authore Romæ
- p002r_1,la,Livres a recouvrer,lists,all,div,ab,in Exegesi
- p002v_1,it,Liste de livres,lists,div,ab,emph,Practica cioe nova inventionedi contegiare stampata in bresciaper vincenzo sabio
- p003r_3,la,,varnish,div,ab,m,pix græca
- p003r_3,po,,varnish,all,div,ab,enveler
- p006r_1,la,Pour poser et assoir dor bruny et donner rouge ou verd ou bleud,painting,div,ab,m,boli armeni
- p007v_4,la,Contre gonhorrea,medicine,all,div,ab,"Aquæ fabrorum antiquæ lb i. boli armeniæ in tel tenuissimum pollinem redactæ ?.i. mellis communis ?.iii. coquantur ad mellis despumationem Tum refrigerata, colentur cum forti expressione &amp; de colatura utatur per injectionem"
- p009r_1,oc,Laboureur,cultivation,div,ab,pa,pomole
- p009v_3,oc,Brouillart,merchants,all,div,ab,Mudat
- p009v_3,oc,Brouillart,merchants,all,div,ab,Mudat
- p011v_3,oc,Pour coucher dor mat,painting,div,ab,pro,espasiers
- p012r_2,oc,Chimolee,casting,ab,m,pro,parayres
- p013r_2,la,Pour taindre,dyeing,div,ab,emph,non bona
- p013v_4,el,Serpens,animal husbandry;household and daily life,all,div,ab,??? ???
- p013v_4,el,Serpens,animal husbandry;household and daily life,all,div,ab,ïon
- p013v_5,oc,Chandelles,tool;household and daily life,div,ab,env,haultan
- p014r_1,po,Pour murailles de terre et bastiment rustique,household and daily life,div,ab,tl,palle baisse
- p014r_1,po,Pour murailles de terre et bastiment rustique,household and daily life,all,div,ab,appillent
- p014r_1,po,Pour murailles de terre et bastiment rustique,household and daily life,all,div,ab,appille
- p015v_6,po,Mal des dents,medicine,div,ab,pa,visaube
- p019v_2,oc,Pour escripre a gaulche aussi bien qua la droicte,painting,all,div,ab,cartels
- p020r_1,oc,Pour faire les Millas,household and daily life,div,head,m,Millas
- p020r_1,oc,Pour faire les Millas,household and daily life,all,div,ab,cedas
- p020r_1,oc,Pour faire les Millas,household and daily life,div,ab,m,millas
- p020r_1,oc,Pour faire les Millas,household and daily life,div,ab,m,millas
- p020v_3,oc,Eschervis racine,cultivation,div,ab,env,rodier
- p021v_2,oc,Deffense dune ville,arms and armor,div,ab,tl,crusol
- p031r_2,la,Eaulx coulourees,metal process,div,ab,m,æs ustum
- p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
- p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
- p033v_2,oc,Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille,tricks and sleight of hand,div,ab,tl,ambu
- p034v_1,la,Pour fayre fondre ou transmuer une bague mise dans une boitte,tricks and sleight of hand,all,div,ab,inhonorificabilitidinitadtudinibus
- p035v_2,la,Pour fayre transmuer du bled dun vaisseau a aultre,tricks and sleight of hand,all,div,ab,invisibilium
- p037r_2,la,Medecine pour lestomach qui leschaufe et desopile le foye,medicine,ab,m,pa,capilli veneris
- p037v_1,oc,Jardinier,cultivation,div,ab,df,havets
- p037v_1,oc,Jardinier,cultivation,div,ab,add,havets
- p038v_2,la,Contre seignee du nes et pour taincture,medicine;dyeing,ab,m,pa,lapathum acutum
- p040r_1,la,Taincture,dyeing,ab,m,pa,lapathium acutum majus
- p041v_2,oc,Brebis tondues,animal husbandry;household and daily life,div,ab,df,viscorter
- p043r_3,it,Purpurine,painting;metal process;varnish,all,div,ab,? stagno dolce meza onca farlo fondere in un cochiaro depoi fonduto gectarly dentro una ? de ? mesedar insieme essendo freddo macinar supra il porfidio dapoi piglia una ? de sal armoniaco una ? de solfo del piu giallo que se possa troval macinar tutti duoi Et poi mesedar molto bene tutti gli matteriali sopradetti dapoi metter tutto insieme dentro un a pignatta sublimatorio di vetro tenerlo sopra picciol fuoco una hora &amp; una hora un poco piu forte &amp; una hora bonissimo fuoco Et sara fatto dapoi per adoperarla datte il negro di resina con colla di pintori da pintar &amp; per doi o tre volte fin a tanto che sia ben negro dapoi datte un poco di vernice Essendo secco datte a secco con ditto la purpurina dove vorrette tanto piu ne darette sara piu bello dapoi si volete datte vernice sopra
- p044r_5,po,Taincture de fleurs,dyeing,ab,m,pa,boufain
- p047r_5,la,Contre diarrhoee et dysentherie,medicine,ab,m,pa,symphitum
- p047r_5,la,Contre diarrhoee et dysentherie,medicine,ab,m,pa,consolida maior
- p047r_5,la,Contre diarrhoee et dysentherie,medicine,ab,m,pa,consolida maior
- p047v_2,oc,Fonte,metal process,div,ab,tl,crusols
- p047v_2,oc,Fonte,metal process,div,ab,tl,crusols
- p048v_1,oc,Extraction de regulus,metal process,div,ab,tl,crusol
- p049v_3,oc,Oyseaulx,animal husbandry,all,div,ab,benarris
- p049v_3,oc,Oyseaulx,animal husbandry,all,div,ab,benarrins
- p050r_1,po,Garder fruict tout lan,preserving;cultivation,div,ab,tl,pone
- p050r_1,po,Garder fruict tout lan,preserving;cultivation,div,ab,m,pone
- p050v_1,oc,Oysillons,animal husbandry,all,div,ab,benarris
- p050v_1,oc,Oysillons,animal husbandry,all,div,ab,benarris
- p053r_1,oc,Soulder un estoc,tool,div,head,tl,estoc
- p053r_1,oc,Soulder un estoc,tool,div,ab,tl,estoc
- p053v_1,la,Vers de soye,cultivation;animal husbandry,all,div,ab,Hieronymus Vida Albensis episcopus de b cremonensis scripsit carmine de bombicum natura
- p055r_1,it,Pour tirer dun schioppo senza rumore,arms and armor,all,div,head,schioppo senza rumore
- p055r_3,la,Contre playes,medicine,m,pa,df,semperviva
- p055r_3,la,Contre playes,medicine,ab,m,pa,vermicularis
- p055r_4,it,Onenev elbirro tnaut is no ehcram rus enu elbat uo ueirse ueirtse,medicine,all,div,head,Onenev elbirro
- p056v_1,po,Painctre,painting;varnish,all,div,ab,prinquer
- p058v_4,la,Azur,painting,ab,m,pa,palma christi
- p060r_3,la,Huile,painting;varnish,ab,m,pa,palma christi
- p066v_1,oc,Garder de croistre les tetins d ou diminuer les trop grands,medicine,all,div,ab,bornat
- p068r_3,oc,,casting,div,ab,tl,crusol
- p069r_2,la,Sable,casting,div,ab,emph,Verte
- p069r_2,oc,,casting,div,ab,tl,crusol
- p079v_4,oc,Mixture pour les imprimeurs,printing,div,ab,tl,crusol
- p079v_4,oc,Mixture pour les imprimeurs,printing,div,ab,tl,crusol
- p080r_1,oc,Mortier,arms and armor,div,ab,tl,birons
- p082v_4,oc,Forme de gecter en bronze,casting,div,ab,tl,crusol
- p083r_1,la,Sable pour le plomb,casting,all,div,ab,?
- p083r_1,la,Sable pour le plomb,casting,div,ab,ms,ana
- p083r_2,la,Sable pour medailles de cuivre,casting,all,div,ab,?
- p083r_4,la,Aultre pour le plomb,casting,all,div,ab,?
- p083r_5,la,Aultre,casting,all,div,ab,?
- p083r_6,oc,Sable excellent,casting,div,ab,tl,crusol
- p086v_1,oc,,casting,div,ab,tl,crusol
- p087v_3,po,Sable de mine de Thoulouse,casting,all,div,ab,acache
- p088r_1,oc,Visme,cultivation,div,head,pa,Visme
- p088r_5,oc,Boulangier,household and daily life,all,div,ab,cussonner
- p090r_2,la,Sable,casting,div,ab,m,crocum ferri
- p092v_2,la,Congellation de mercure,metal process,div,ab,ms,ana
- p094r_1,oc,,arms and armor,div,ab,tl,estoc
- p097r_2,oc,Dorer,arms and armor;metal process,div,ab,tl,estoc
- p098v_5,la,,casting,all,div,ab,quod non credo
- p098v_5,oc,,casting,div,ab,tl,crusol
- p098v_5,oc,,casting,div,ab,tl,crusol
- p098v_5,oc,,casting,div,ab,tl,crusol
- p100v_2,oc,,stones,div,ab,tl,crusol
- p101r_2,oc,Sel a fayre fondre,metal process;casting,div,ab,tl,crusol
- p101r_2,oc,,metal process;casting,div,ab,tl,crusol
- p103r_2,oc,Contre la galle des chiens,medicine,div,ab,m,pegue
- p105v_1,oc,Jardinier,cultivation,div,ab,pa,armols
- p106r_2,la,Faire courre lOr pour gect,casting,div,ab,m,crocum ferri
- p106v_1,la,Gecter en or,casting,div,ab,m,crocum ferri
- p106v_2,la,,,ab,emph,m,crocum ferri
- p107r_1,la,Pour prendre lezards et serpents,casting,div,ab,m,crocum ferri
- p107r_1,la,Pour prendre lezards et serpents,casting,div,ab,m,crocum ferry
- p107r_1,la,,,all,div,ab,"Archanum omnibus fere reconditum est in re fusoria utvidelicet res exprimenda formis sive herba sit sive animal ut lucerta in af inting inmergatur primum in vini spiritum aprime rectificatum, deinde pulvere composito aspergatur sive illinatur (si pulvis in formam pultis redactus sit ut assolet"
- p107r_1,de,,casting,emph,df,m,spat
- p108r_2,de,Spalt,casting,div,head,m,Spalt
- p108r_2,de,Spalt,casting,div,ab,m,spalt
- p109r_2,oc,Cire a mouler -,casting;wax process,div,ab,tl,crusol
- p111v_5,oc,Composition de sable,casting,ab,ms,tl,crusols
- p112v_1,po,Mouler Fayre le plant et disposition de lanimal,casting,all,div,ab,tourtelle
- p112v_1,po,Mouler Fayre le plant et disposition de lanimal,casting,all,div,ab,tourtelle
- p112v_1,po,Mouler Fayre le plant et disposition de lanimal,casting,all,div,ab,tourtelle
- p112v_1,po,,casting,all,div,ab,tourtelle
- p112v_1,po,,casting,all,div,ab,tourtelle
- p112v_1,po,,casting,all,div,ab,tourtelle
- p113r_1,po,,casting,div,ab,m,tourtelle
- p114r_1,po,,casting,all,div,ab,tourtelle
- p114r_1,po,,casting,all,div,ab,tourtelle
- p115r_1,po,,,all,div,ab,tourtelle
- p116v_2,oc,Mixture destain et de plomb,casting,div,ab,ms,avelane
- p118r_3,de,Pour grottes,decorative,ab,m,df,stuf
- p118v_1,oc,,casting,div,ab,tl,crusol
- p118v_1,oc,,casting,div,ab,tl,crusol
- p118v_1,oc,,casting,div,ab,tl,crusol
- p119r_1,la,Advertissement sur ce que dessus,casting,div,ab,emph,Nota
- p119v_1,de,Facon dacoustrer lae spalt spat,casting,head,add,m,spat
- p119v_1,la,Facon dacoustrer lae spalt spat,casting,all,div,ab,gesnerus de lapidibus
- p119v_1,de,Facon dacoustrer lae spalt spat,casting,div,ab,m,spat
- p120r_2,la,,,div,ab,m,crocum ferri
- p120r_2,la,,,div,ab,m,crocum
- p120r_2,la,,,div,ab,m,crocum
- p120v_1,la,Crocum ferri,casting;medicine,div,head,m,Crocum ferri
- p120v_1,la,Crocum ferri,casting;medicine,div,ab,m,crocum ferri
- p120v_3,la,Fayre courre largent,casting,div,ab,m,æs ustum
- p120v_3,la,Fayre courre largent,casting,div,ab,m,crocum
- p120v_3,la,Fayre courre largent,casting,div,ab,m,æs ustum
- p120v_3,la,Fayre courre largent,casting,div,ab,emph,Siscitatio dubia
- p120v_6,po,,preserving,div,ab,pa,boufains
- p120v_6,la,,preserving,all,div,ab,ranunculus
- p120v_6,la,,preserving,all,div,ab,palta lupina
- p121r_1,po,Pour garder les fruits tout lan,preserving,div,ab,tl,pone
- p121v_1,la,Pour gecter en argent,casting,ab,add,m,crocum
- p123r_1,it,Moyen di far correr lotnegra,metal process,all,div,head,di far correr lotnegra
- p123r_1,la,Moyen di far correr lotnegra,metal process,div,ab,m,Aes ustum
- p123r_1,oc,Moyen di far correr lotnegra,metal process,div,ab,tl,crusol
- p123r_1,oc,,,div,ab,tl,crusol
- p123r_1,oc,,,div,ab,tl,crusol
- p123r_1,oc,,,div,ab,tl,crusol
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,po,,metal process,all,div,ab,tourtelles
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p123r_1,la,,metal process,div,ab,m,æs ustum
- p123r_1,po,,metal process,all,div,ab,tourtelle
- p123r_1,oc,,metal process,div,ab,tl,crusol
- p126v_1,la,Crocum ferri,casting,div,head,m,Crocum ferri
- p126v_1,la,Crocum ferri,casting,div,ab,m,crocum
- p126v_3,la,,casting,div,ab,m,crocum
- p127v_1,oc,Terre des fondeurs,casting,ab,m,tl,crusols
- p127v_1,la,Terre des fondeurs,casting,ab,add,m,crocum
- p128r_1,oc,Gecter en argent et or,casting,div,ab,tl,crusol
- p128r_1,oc,Gecter en argent et or,casting,div,ab,tl,crusol
- p128r_1,la,Gecter en argent et or,casting,div,ab,m,crocum
- p128r_1,oc,,,div,ab,tl,crusol
- p128r_1,oc,,,div,ab,tl,crusol
- p128r_1,oc,,,div,ab,tl,crusol
- p128r_1,oc,,,div,ab,tl,crusol
- p128v_1,oc,Blanchiment de largent gecte,casting;metal process,div,ab,tl,crusol
- p131r_5,la,Cires moulees,casting,all,div,ab,Nota
- p132v_2,la,Crocum ferri,casting,div,head,m,Crocum ferri
- p132v_2,la,Crocum ferri,casting,div,ab,m,crocum
- p132v_2,la,Crocum ferri,casting,div,ab,m,crocum ferri
- p132v_2,la,Crocum ferri,casting,ab,sn,m,crocum
- p133v_3,po,Divers animaulx enlasses,casting,div,ab,al,angroise
- p134r_2,la,Sable de crocum,casting,head,m,m,crocum
- p134r_2,la,Sable de crocum,casting,div,ab,m,crocum ferri
- p134r_2,la,Sable de crocum,casting,div,ab,m,crocum
- p135r_2,oc,Gect,casting,div,ab,al,sernailles
- p135v_1,oc,Pour gecter en ?,casting,div,ab,tl,crusol
- p135v_1,oc,Pour gecter en ?,casting,div,ab,tl,crusol
- p135v_1,oc,Pour gecter en ?,casting,div,ab,tl,crusol
- p135v_1,oc,Pour gecter en ?,casting,div,ab,tl,crusol
- p135v_1,la,Pour gecter en ?,casting,ab,m,m,crocum
- p135v_1,oc,,casting,div,ab,tl,crusol
- p135v_1,oc,,casting,div,ab,tl,crusol
- p135v_1,la,,casting,ab,add,m,sol
- p137r_2,la,Huile tingente pour fayre courre les metaux,casting;metal process,div,ab,m,Aes ustum
- p137r_2,po,Huile tingente pour fayre courre les metaux,casting;metal process,div,ab,env,sourdis
- p137v_1,de,,casting,div,ab,m,spat
- p139r_1,oc,Gect de plomb et destaim,casting,div,ab,tl,crusol
- p139r_1,oc,Gect de plomb et destaim,casting,div,ab,tl,crusol
- p140v_3,la,Gect de plomb et estain en plastre,,div,ab,m,crocum
- p141r_1,la,,casting,div,ab,m,crocum
- p141r_1,la,,casting,div,ab,m,crocum
- p143r_2,la,Mouleurs de foix,casting,ab,m,m,crocum
- p144r_1,po,,,all,div,ab,acache
- p144r_1,la,,,div,ab,m,crocum
- p145r_1,la,Gecter en trois chassis,casting,div,ab,emph,Inquire
- p145v_1,la,,casting,div,ab,m,crocum ferri
- p145v_1,la,,casting,div,ab,m,crocum
- p147v_3,oc,Crusol,casting,div,head,tl,Crusol
- p147v_3,oc,Crusol,casting,div,ab,tl,crusol
- p148r_4,la,Crocum ferri,casting,div,head,m,Crocum ferri
- p148v_1,la,Mouler tortues,casting,div,ab,m,crocum
- p150v_1,la,,casting,div,ab,m,crocum
- p150v_1,la,,casting,div,ab,m,crocum
- p152v_1,la,Reparer les choses gectees,casting,div,ab,m,crocum
- p153r_2,la,Donner telle espesseur a une medaille que tu vouldras,casting,div,ab,m,crocum
- p154r_4,la,Escaille de fer,metal process,div,ab,m,crocum
- p157r_4,oc,Disposer lherbe ou fleur pour gecter,casting,all,div,ab,a lenssus
- p158r_1,la,Mercure dans les moules a nettoyer,casting,ab,m,m,crocum
- p161r_1,la,Præparation du sable pour chassis,casting,ab,m,m,lateribus
- p161r_1,la,Præparation du sable pour chassis,casting,ab,m,m,alume jameni
- p161r_1,la,Præparation du sable pour chassis,casting,ab,del,add,nota
- p161r_1,la,Præparation du sable pour chassis,casting,div,ab,add,nota
- p161r_1,la,,,div,ab,emph,nota
- p161r_1,la,,,div,ab,emph,nota
- p161v_1,la,Crocum ferri,metal process,div,head,m,Crocum ferri
- p162r_1,el,Pour la boutique,La boutique,all,div,ab,Clio
- p162r_1,el,,La boutique,all,div,ab,Clio
- p162r_1,la,,La boutique,all,div,ab,pateras aureas sex pondo 30 talentorum
- p162r_1,la,,La boutique,all,div,ab,pateram ex ferro compactilem apud delphos dedicavit spectatu dignam inter omnia quæ sunt delphis donaria opus Glauci Chii qui solus omnium compactionem ferri excogitavit compactile ferrum
- p162r_2,la,Aes ustum,casting,div,head,m,Aes ustum
- p162r_2,la,Aes ustum,casting,div,ab,m,Crocum
- p163v_2,la,Crocum,metal process,div,head,m,Crocum
- p163v_2,la,Crocum,metal process,div,ab,m,æs ustum
- p164r_4,oc,Soufler,casting;metal process,div,ab,tl,crusole
- p164v_2,la,Sable,casting,div,ab,m,crocum
- p164v_2,la,Sable,casting,div,ab,m,crocum
- p166r_1,la,Pour la boutique,La boutique,all,div,ab,nullum est jam dictum quod non dictum aut factum sit prius
- p166r_1,la,Pour la boutique,La boutique,all,div,ab,Apollo a Chirone medicari didicit &amp; tamen Deus medicinæ habitus
- p166r_1,la,Pour la boutique,La boutique,all,div,ab,Homerus orphei poema imitatus est Nam cum Orpheus sic prius exorsus esset Iram cane deam dea Cereris frugiferentis Ita reddit homerus Iram cane dea Pelidæ achillis In Justino martire circa princip.
- p166r_1,la,,La boutique,all,div,ab,in Sinopsi
- p166r_1,la,,La boutique,all,div,ab,parvus eram
- p166r_1,la,,La boutique,div,ab,del,Manus me?
- p166r_1,la,,La boutique,div,ab,emph,Manus me? fecerunt organum et digiti mei aptarunt psalterium
- p166v_4,la,Adoulcir lor,metal process,div,ab,m,caput mortuum
- p167r_1,oc,Mortiers,arms and armor,div,ab,tl,crusol
- p167r_1,po,,arms and armor,div,ab,m,tourtelle
- p167r_1,po,,arms and armor,all,div,ab,acache
- p167r_1,oc,,arms and armor,div,ab,tl,viron
- p167r_1,oc,,arms and armor,div,ab,tl,viron
- p167r_1,oc,,arms and armor,div,ab,tl,birons
- p167r_1,oc,,arms and armor,div,ab,tl,virons
- p167r_1,po,,arms and armor,div,ab,tl,vertuelle
- p169r_1,la,Liste de procédés,lists,div,ab,pa,capilli veneris
- p170v_2,la,Contre peste,medicine,all,div,ab,Othonis Episcopi frisigensis ab orbe condito
- p170v_3,la,Pour preserver,medicine,all,div,ab,Acetum paratum ex ruta baccis juniperi simul tusis Eo aceto extinguantur lateres igniti Et vapor excipiatur ore &amp; naribus
- p170v_3,la,Pour preserver,medicine,all,div,ab,Abbatis Uspergensis Chronic.
- p170v_3,la,Pour preserver,medicine,div,ab,emph,Hyeronimus mercurialis variarum
- p170v_4,la,Liste de livres,lists,div,ab,emph,Rerum scoticarum historia Georgio Bucanano auth.
- p170v_4,la,Liste de livres,lists,div,ab,emph,Rembertus Dodonæus mechliniensis medicus de stirpium historia
- p170v_4,la,Liste de livres,lists,div,ab,emph,Tilesius de coloribus Vascosan
- p170v_4,la,Liste de livres,lists,div,ab,emph,Marmodæus ge de lapillis præciosis
- p170v_4,la,Liste de livres,lists,ab,ups,emph,Albertus magnus de mineralibus
+<?xml version="1.0" encoding="UTF-8"?>p001r_2:la:Liste:lists:all:div:ab:"Sacra Eleusinæ deæ propalare nefas"
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"Mathemat. Ingolstadiensis Comment. urb. rom."
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"de aucupio et venatione"
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"de rebus persarum"
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"historicus gentilis qui de rebus davidis &amp; salomonis scripsit"
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"Thebaidos"
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"in Aeneid."
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"miscell."
+ p001r_3:la:Liste de livres et d'autheurs:lists:all:div:ab:"onomast."
+ p001r_3:la:Liste de livres et d'autheurs:lists:div:ab:add:"cum permultis aliis"
+ p001r_4:la:Liste de livres:lists:div:ab:emph:"Aquatilium animalium historiæ hypolito salviano typhernate authore Romæ"
+ p002r_1:la:Livres a recouvrer:lists:all:div:ab:"in Exegesi"
+ p002v_1:it:Liste de livres:lists:div:ab:emph:"Practica cioe nova inventionedi contegiare stampata in bresciaper vincenzo sabio"
+ p003r_3:la::varnish:div:ab:m:"pix græca"
+ p003r_3:po::varnish:all:div:ab:"enveler"
+ p006r_1:la:Pour poser et assoir dor bruny et donner rouge ou verd ou bleud:painting:div:ab:m:"boli armeni"
+ p007v_4:la:Contre gonhorrea:medicine:all:div:ab:"Aquæ fabrorum antiquæ lb i. boli armeniæ in tel tenuissimum pollinem redactæ ℥.i. mellis communis ʒ.iii. coquantur ad mellis despumationem Tum refrigerata, colentur cum forti expressione &amp; de colatura utatur per injectionem"
+ p009r_1:oc:Laboureur:cultivation:div:ab:pa:"pomole"
+ p009v_3:oc:Brouillart:merchants:all:div:ab:"Mudat"
+ p009v_3:oc:Brouillart:merchants:all:div:ab:"Mudat"
+ p011v_3:oc:Pour coucher dor mat:painting:div:ab:pro:"espasiers"
+ p012r_2:oc:Chimolee:casting:ab:m:pro:"parayres"
+ p013r_2:la:Pour taindre:dyeing:div:ab:emph:"non bona"
+ p013v_4:el:Serpens:animal husbandry;household and daily life:all:div:ab:"ΟΦΗ ΟΦΗ"
+ p013v_4:el:Serpens:animal husbandry;household and daily life:all:div:ab:"ïon"
+ p013v_5:oc:Chandelles:tool;household and daily life:div:ab:env:"haultan"
+ p014r_1:po:Pour murailles de terre et bastiment rustique:household and daily life:div:ab:tl:"palle baisse"
+ p014r_1:po:Pour murailles de terre et bastiment rustique:household and daily life:all:div:ab:"appillent"
+ p014r_1:po:Pour murailles de terre et bastiment rustique:household and daily life:all:div:ab:"appille"
+ p015v_6:po:Mal des dents:medicine:div:ab:pa:"visaube"
+ p019v_2:oc:Pour escripre a gaulche aussi bien qua la droicte:painting:all:div:ab:"cartels"
+ p020r_1:oc:Pour faire les Millas:household and daily life:div:head:m:"Millas"
+ p020r_1:oc:Pour faire les Millas:household and daily life:all:div:ab:"cedas"
+ p020r_1:oc:Pour faire les Millas:household and daily life:div:ab:m:"millas"
+ p020r_1:oc:Pour faire les Millas:household and daily life:div:ab:m:"millas"
+ p020v_3:oc:Eschervis racine:cultivation:div:ab:env:"rodier"
+ p021v_2:oc:Deffense dune ville:arms and armor:div:ab:tl:"crusol"
+ p031r_2:la:Eaulx coulourees:metal process:div:ab:m:"æs ustum"
+ p033v_2:oc:Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille:tricks and sleight of hand:div:ab:tl:"ambu"
+ p033v_2:oc:Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille:tricks and sleight of hand:div:ab:tl:"ambu"
+ p033v_2:oc:Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille:tricks and sleight of hand:div:ab:tl:"ambu"
+ p034v_1:la:Pour fayre fondre ou transmuer une bague mise dans une boitte:tricks and sleight of hand:all:div:ab:"inhonorificabilitidinitadtudinibus"
+ p035v_2:la:Pour fayre transmuer du bled dun vaisseau a aultre:tricks and sleight of hand:all:div:ab:"invisibilium"
+ p037r_2:la:Medecine pour lestomach qui leschaufe et desopile le foye:medicine:ab:m:pa:"capilli veneris"
+ p037v_1:oc:Jardinier:cultivation:div:ab:df:"havets"
+ p037v_1:oc:Jardinier:cultivation:div:ab:add:"havets"
+ p038v_2:la:Contre seignee du nes et pour taincture:medicine;dyeing:ab:m:pa:"lapathum acutum"
+ p040r_1:la:Taincture:dyeing:ab:m:pa:"lapathium acutum majus"
+ p041v_2:oc:Brebis tondues:animal husbandry;household and daily life:div:ab:df:"viscorter"
+ p043r_3:it:Purpurine:painting;metal process;varnish:all:div:ab:"℞ stagno dolce meza onca farlo fondere in un cochiaro depoi fonduto gectarly dentro una ℥ de ☿ mesedar insieme essendo freddo macinar supra il porfidio dapoi piglia una ℥ de sal armoniaco una ℥ de solfo del piu giallo que se possa troval macinar tutti duoi Et poi mesedar molto bene tutti gli matteriali sopradetti dapoi metter tutto insieme dentro un a pignatta sublimatorio di vetro tenerlo sopra picciol fuoco una hora &amp; una hora un poco piu forte &amp; una hora bonissimo fuoco Et sara fatto dapoi per adoperarla datte il negro di resina con colla di pintori da pintar &amp; per doi o tre volte fin a tanto che sia ben negro dapoi datte un poco di vernice Essendo secco datte a secco con ditto la purpurina dove vorrette tanto piu ne darette sara piu bello dapoi si volete datte vernice sopra"
+ p044r_5:po:Taincture de fleurs:dyeing:ab:m:pa:"boufain"
+ p047r_5:la:Contre diarrhoee et dysentherie:medicine:ab:m:pa:"symphitum"
+ p047r_5:la:Contre diarrhoee et dysentherie:medicine:ab:m:pa:"consolida maior"
+ p047r_5:la:Contre diarrhoee et dysentherie:medicine:ab:m:pa:"consolida maior"
+ p047v_2:oc:Fonte:metal process:div:ab:tl:"crusols"
+ p047v_2:oc:Fonte:metal process:div:ab:tl:"crusols"
+ p048v_1:oc:Extraction de regulus:metal process:div:ab:tl:"crusol"
+ p049v_3:oc:Oyseaulx:animal husbandry:all:div:ab:"benarris"
+ p049v_3:oc:Oyseaulx:animal husbandry:all:div:ab:"benarrins"
+ p050r_1:po:Garder fruict tout lan:preserving;cultivation:div:ab:tl:"pone"
+ p050r_1:po:Garder fruict tout lan:preserving;cultivation:div:ab:m:"pone"
+ p050v_1:oc:Oysillons:animal husbandry:all:div:ab:"benarris"
+ p050v_1:oc:Oysillons:animal husbandry:all:div:ab:"benarris"
+ p053r_1:oc:Soulder un estoc:tool:div:head:tl:"estoc"
+ p053r_1:oc:Soulder un estoc:tool:div:ab:tl:"estoc"
+ p053v_1:la:Vers de soye:cultivation;animal husbandry:all:div:ab:"Hieronymus Vida Albensis episcopus de b cremonensis scripsit carmine de bombicum natura"
+ p055r_1:it:Pour tirer dun schioppo senza rumore:arms and armor:all:div:head:"schioppo senza rumore"
+ p055r_3:la:Contre playes:medicine:m:pa:df:"semperviva"
+ p055r_3:la:Contre playes:medicine:ab:m:pa:"vermicularis"
+ p055r_4:it:Onenev elbirro tnaut is no ehcram rus enu elbat uo ueirse ueirtse:medicine:all:div:head:"Onenev elbirro"
+ p056v_1:po:Painctre:painting;varnish:all:div:ab:"prinquer"
+ p058v_4:la:Azur:painting:ab:m:pa:"palma christi"
+ p060r_3:la:Huile:painting;varnish:ab:m:pa:"palma christi"
+ p066v_1:oc:Garder de croistre les tetins d ou diminuer les trop grands:medicine:all:div:ab:"bornat"
+ p068r_3:oc::casting:div:ab:tl:"crusol"
+ p069r_2:la:Sable:casting:div:ab:emph:"Verte"
+ p069r_2:oc::casting:div:ab:tl:"crusol"
+ p079v_4:oc:Mixture pour les imprimeurs:printing:div:ab:tl:"crusol"
+ p079v_4:oc:Mixture pour les imprimeurs:printing:div:ab:tl:"crusol"
+ p080r_1:oc:Mortier:arms and armor:div:ab:tl:"birons"
+ p082v_4:oc:Forme de gecter en bronze:casting:div:ab:tl:"crusol"
+ p083r_1:la:Sable pour le plomb:casting:all:div:ab:"℞"
+ p083r_1:la:Sable pour le plomb:casting:div:ab:ms:"ana"
+ p083r_2:la:Sable pour medailles de cuivre:casting:all:div:ab:"℞"
+ p083r_4:la:Aultre pour le plomb:casting:all:div:ab:"℞"
+ p083r_5:la:Aultre:casting:all:div:ab:"℞"
+ p083r_6:oc:Sable excellent:casting:div:ab:tl:"crusol"
+ p086v_1:oc::casting:div:ab:tl:"crusol"
+ p087v_3:po:Sable de mine de Thoulouse:casting:all:div:ab:"acache"
+ p088r_1:oc:Visme:cultivation:div:head:pa:"Visme"
+ p088r_5:oc:Boulangier:household and daily life:all:div:ab:"cussonner"
+ p090r_2:la:Sable:casting:div:ab:m:"crocum ferri"
+ p092v_2:la:Congellation de mercure:metal process:div:ab:ms:"ana"
+ p094r_1:oc::arms and armor:div:ab:tl:"estoc"
+ p097r_2:oc:Dorer:arms and armor;metal process:div:ab:tl:"estoc"
+ p098v_5:la::casting:all:div:ab:"quod non credo"
+ p098v_5:oc::casting:div:ab:tl:"crusol"
+ p098v_5:oc::casting:div:ab:tl:"crusol"
+ p098v_5:oc::casting:div:ab:tl:"crusol"
+ p100v_2:oc::stones:div:ab:tl:"crusol"
+ p101r_2:oc:Sel a fayre fondre:metal process;casting:div:ab:tl:"crusol"
+ p101r_2:oc::metal process;casting:div:ab:tl:"crusol"
+ p103r_2:oc:Contre la galle des chiens:medicine:div:ab:m:"pegue"
+ p105v_1:oc:Jardinier:cultivation:div:ab:pa:"armols"
+ p106r_2:la:Faire courre lOr pour gect:casting:div:ab:m:"crocum ferri"
+ p106v_1:la:Gecter en or:casting:div:ab:m:"crocum ferri"
+ p106v_2:la:::ab:emph:m:"crocum ferri"
+ p107r_1:de::casting:emph:df:m:"spat"
+ p107r_1:la:Pour prendre lezards et serpents:casting:div:ab:m:"crocum ferri"
+ p107r_1:la:Pour prendre lezards et serpents:casting:div:ab:m:"crocum ferry"
+ p107r_1:la:::all:div:ab:"Archanum omnibus fere reconditum est in re fusoria utvidelicet res exprimenda formis sive herba sit sive animal ut lucerta in af inting inmergatur primum in vini spiritum aprime rectificatum, deinde pulvere composito aspergatur sive illinatur (si pulvis in formam pultis redactus sit ut assolet"
+ p108r_2:de:Spalt:casting:div:head:m:"Spalt"
+ p108r_2:de:Spalt:casting:div:ab:m:"spalt"
+ p109r_2:oc:Cire a mouler -:casting;wax process:div:ab:tl:"crusol"
+ p111v_5:oc:Composition de sable:casting:ab:ms:tl:"crusols"
+ p112v_1:po:Mouler Fayre le plant et disposition de lanimal:casting:all:div:ab:"tourtelle"
+ p112v_1:po:Mouler Fayre le plant et disposition de lanimal:casting:all:div:ab:"tourtelle"
+ p112v_1:po:Mouler Fayre le plant et disposition de lanimal:casting:all:div:ab:"tourtelle"
+ p112v_1:po::casting:all:div:ab:"tourtelle"
+ p112v_1:po::casting:all:div:ab:"tourtelle"
+ p112v_1:po::casting:all:div:ab:"tourtelle"
+ p113r_1:po::casting:div:ab:m:"tourtelle"
+ p114r_1:po::casting:all:div:ab:"tourtelle"
+ p114r_1:po::casting:all:div:ab:"tourtelle"
+ p115r_1:po:::all:div:ab:"tourtelle"
+ p116v_2:oc:Mixture destain et de plomb:casting:div:ab:ms:"avelane"
+ p118r_3:de:Pour grottes:decorative:ab:m:df:"stuf"
+ p118v_1:oc::casting:div:ab:tl:"crusol"
+ p118v_1:oc::casting:div:ab:tl:"crusol"
+ p118v_1:oc::casting:div:ab:tl:"crusol"
+ p119r_1:la:Advertissement sur ce que dessus:casting:div:ab:emph:"Nota"
+ p119v_1:de:Facon dacoustrer lae spalt spat:casting:head:add:m:"spat"
+ p119v_1:la:Facon dacoustrer lae spalt spat:casting:all:div:ab:"gesnerus de lapidibus"
+ p119v_1:de:Facon dacoustrer lae spalt spat:casting:div:ab:m:"spat"
+ p120r_2:la:::div:ab:m:"crocum ferri"
+ p120r_2:la:::div:ab:m:"crocum"
+ p120r_2:la:::div:ab:m:"crocum"
+ p120v_1:la:Crocum ferri:casting;medicine:div:head:m:"Crocum ferri"
+ p120v_1:la:Crocum ferri:casting;medicine:div:ab:m:"crocum ferri"
+ p120v_3:la:Fayre courre largent:casting:div:ab:m:"æs ustum"
+ p120v_3:la:Fayre courre largent:casting:div:ab:m:"crocum"
+ p120v_3:la:Fayre courre largent:casting:div:ab:m:"æs ustum"
+ p120v_3:la:Fayre courre largent:casting:div:ab:emph:"Siscitatio dubia"
+ p120v_6:po::preserving:div:ab:pa:"boufains"
+ p120v_6:la::preserving:all:div:ab:"ranunculus"
+ p120v_6:la::preserving:all:div:ab:"palta lupina"
+ p121r_1:po:Pour garder les fruits tout lan:preserving:div:ab:tl:"pone"
+ p121v_1:la:Pour gecter en argent:casting:ab:add:m:"crocum"
+ p123r_1:it:Moyen di far correr lotnegra:metal process:all:div:head:"di far correr lotnegra"
+ p123r_1:la:Moyen di far correr lotnegra:metal process:div:ab:m:"Aes ustum"
+ p123r_1:oc:Moyen di far correr lotnegra:metal process:div:ab:tl:"crusol"
+ p123r_1:oc:::div:ab:tl:"crusol"
+ p123r_1:oc:::div:ab:tl:"crusol"
+ p123r_1:oc:::div:ab:tl:"crusol"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p123r_1:po::metal process:all:div:ab:"tourtelles"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p123r_1:la::metal process:div:ab:m:"æs ustum"
+ p123r_1:po::metal process:all:div:ab:"tourtelle"
+ p123r_1:oc::metal process:div:ab:tl:"crusol"
+ p126v_1:la:Crocum ferri:casting:div:head:m:"Crocum ferri"
+ p126v_1:la:Crocum ferri:casting:div:ab:m:"crocum"
+ p126v_3:la::casting:div:ab:m:"crocum"
+ p127v_1:oc:Terre des fondeurs:casting:ab:m:tl:"crusols"
+ p127v_1:la:Terre des fondeurs:casting:ab:add:m:"crocum"
+ p128r_1:oc:Gecter en argent et or:casting:div:ab:tl:"crusol"
+ p128r_1:oc:Gecter en argent et or:casting:div:ab:tl:"crusol"
+ p128r_1:la:Gecter en argent et or:casting:div:ab:m:"crocum"
+ p128r_1:oc:::div:ab:tl:"crusol"
+ p128r_1:oc:::div:ab:tl:"crusol"
+ p128r_1:oc:::div:ab:tl:"crusol"
+ p128r_1:oc:::div:ab:tl:"crusol"
+ p128v_1:oc:Blanchiment de largent gecte:casting;metal process:div:ab:tl:"crusol"
+ p131r_5:la:Cires moulees:casting:all:div:ab:"Nota"
+ p132v_2:la:Crocum ferri:casting:div:head:m:"Crocum ferri"
+ p132v_2:la:Crocum ferri:casting:div:ab:m:"crocum"
+ p132v_2:la:Crocum ferri:casting:div:ab:m:"crocum ferri"
+ p132v_2:la:Crocum ferri:casting:ab:sn:m:"crocum"
+ p133v_3:po:Divers animaulx enlasses:casting:div:ab:al:"angroise"
+ p134r_2:la:Sable de crocum:casting:head:m:m:"crocum"
+ p134r_2:la:Sable de crocum:casting:div:ab:m:"crocum ferri"
+ p134r_2:la:Sable de crocum:casting:div:ab:m:"crocum"
+ p135r_2:oc:Gect:casting:div:ab:al:"sernailles"
+ p135v_1:oc::casting:div:ab:tl:"crusol"
+ p135v_1:oc::casting:div:ab:tl:"crusol"
+ p135v_1:la::casting:ab:add:m:"sol"
+ p135v_1:oc:Pour gecter en ☼:casting:div:ab:tl:"crusol"
+ p135v_1:oc:Pour gecter en ☼:casting:div:ab:tl:"crusol"
+ p135v_1:oc:Pour gecter en ☼:casting:div:ab:tl:"crusol"
+ p135v_1:oc:Pour gecter en ☼:casting:div:ab:tl:"crusol"
+ p135v_1:la:Pour gecter en ☼:casting:ab:m:m:"crocum"
+ p137r_2:la:Huile tingente pour fayre courre les metaux:casting;metal process:div:ab:m:"Aes ustum"
+ p137r_2:po:Huile tingente pour fayre courre les metaux:casting;metal process:div:ab:env:"sourdis"
+ p137v_1:de::casting:div:ab:m:"spat"
+ p139r_1:oc:Gect de plomb et destaim:casting:div:ab:tl:"crusol"
+ p139r_1:oc:Gect de plomb et destaim:casting:div:ab:tl:"crusol"
+ p140v_3:la:Gect de plomb et estain en plastre::div:ab:m:"crocum"
+ p141r_1:la::casting:div:ab:m:"crocum"
+ p141r_1:la::casting:div:ab:m:"crocum"
+ p143r_2:la:Mouleurs de foix:casting:ab:m:m:"crocum"
+ p144r_1:la:::div:ab:m:"crocum"
+ p144r_1:po:::all:div:ab:"acache"
+ p145r_1:la:Gecter en trois chassis:casting:div:ab:emph:"Inquire"
+ p145v_1:la::casting:div:ab:m:"crocum ferri"
+ p145v_1:la::casting:div:ab:m:"crocum"
+ p147v_3:oc:Crusol:casting:div:head:tl:"Crusol"
+ p147v_3:oc:Crusol:casting:div:ab:tl:"crusol"
+ p148r_4:la:Crocum ferri:casting:div:head:m:"Crocum ferri"
+ p148v_1:la:Mouler tortues:casting:div:ab:m:"crocum"
+ p150v_1:la::casting:div:ab:m:"crocum"
+ p150v_1:la::casting:div:ab:m:"crocum"
+ p152v_1:la:Reparer les choses gectees:casting:div:ab:m:"crocum"
+ p153r_2:la:Donner telle espesseur a une medaille que tu vouldras:casting:div:ab:m:"crocum"
+ p154r_4:la:Escaille de fer:metal process:div:ab:m:"crocum"
+ p157r_4:oc:Disposer lherbe ou fleur pour gecter:casting:all:div:ab:"a lenssus"
+ p158r_1:la:Mercure dans les moules a nettoyer:casting:ab:m:m:"crocum"
+ p161r_1:la:Præparation du sable pour chassis:casting:ab:m:m:"lateribus"
+ p161r_1:la:Præparation du sable pour chassis:casting:ab:m:m:"alume jameni"
+ p161r_1:la:Præparation du sable pour chassis:casting:ab:del:add:"nota"
+ p161r_1:la:Præparation du sable pour chassis:casting:div:ab:add:"nota"
+ p161r_1:la:::div:ab:emph:"nota"
+ p161r_1:la:::div:ab:emph:"nota"
+ p161v_1:la:Crocum ferri:metal process:div:head:m:"Crocum ferri"
+ p162r_1:el:Pour la boutique:La boutique:all:div:ab:"Clio"
+ p162r_1:el::La boutique:all:div:ab:"Clio"
+ p162r_1:la::La boutique:all:div:ab:"pateras aureas sex pondo 30 talentorum"
+ p162r_1:la::La boutique:all:div:ab:"pateram ex ferro compactilem apud delphos dedicavit spectatu dignam inter omnia quæ sunt delphis donaria opus Glauci Chii qui solus omnium compactionem ferri excogitavit compactile ferrum"
+ p162r_2:la:Aes ustum:casting:div:head:m:"Aes ustum"
+ p162r_2:la:Aes ustum:casting:div:ab:m:"Crocum"
+ p163v_2:la:Crocum:metal process:div:head:m:"Crocum"
+ p163v_2:la:Crocum:metal process:div:ab:m:"æs ustum"
+ p164r_4:oc:Soufler:casting;metal process:div:ab:tl:"crusole"
+ p164v_2:la:Sable:casting:div:ab:m:"crocum"
+ p164v_2:la:Sable:casting:div:ab:m:"crocum"
+ p166r_1:la::La boutique:all:div:ab:"in Sinopsi"
+ p166r_1:la::La boutique:all:div:ab:"parvus eram"
+ p166r_1:la::La boutique:div:ab:del:"Manus meӕ"
+ p166r_1:la::La boutique:div:ab:emph:"Manus meӕ fecerunt organum et digiti mei aptarunt psalterium"
+ p166r_1:la:Pour la boutique:La boutique:all:div:ab:"nullum est jam dictum quod non dictum aut factum sit prius"
+ p166r_1:la:Pour la boutique:La boutique:all:div:ab:"Apollo a Chirone medicari didicit &amp; tamen Deus medicinæ habitus"
+ p166r_1:la:Pour la boutique:La boutique:all:div:ab:"Homerus orphei poema imitatus est Nam cum Orpheus sic prius exorsus esset Iram cane deam dea Cereris frugiferentis Ita reddit homerus Iram cane dea Pelidæ achillis In Justino martire circa princip."
+ p166v_4:la:Adoulcir lor:metal process:div:ab:m:"caput mortuum"
+ p167r_1:oc::arms and armor:div:ab:tl:"viron"
+ p167r_1:oc::arms and armor:div:ab:tl:"viron"
+ p167r_1:oc:Mortiers:arms and armor:div:ab:tl:"crusol"
+ p167r_1:oc::arms and armor:div:ab:tl:"birons"
+ p167r_1:oc::arms and armor:div:ab:tl:"virons"
+ p167r_1:po::arms and armor:div:ab:tl:"vertuelle"
+ p167r_1:po::arms and armor:div:ab:m:"tourtelle"
+ p167r_1:po::arms and armor:all:div:ab:"acache"
+ p169r_1:la:Liste de procédés:lists:div:ab:pa:"capilli veneris"
+ p170v_2:la:Contre peste:medicine:all:div:ab:"Othonis Episcopi frisigensis ab orbe condito"
+ p170v_3:la:Pour preserver:medicine:all:div:ab:"Acetum paratum ex ruta baccis juniperi simul tusis Eo aceto extinguantur lateres igniti Et vapor excipiatur ore &amp; naribus"
+ p170v_3:la:Pour preserver:medicine:all:div:ab:"Abbatis Uspergensis Chronic."
+ p170v_3:la:Pour preserver:medicine:div:ab:emph:"Hyeronimus mercurialis variarum"
+ p170v_4:la:Liste de livres:lists:div:ab:emph:"Rerum scoticarum historia Georgio Bucanano auth."
+ p170v_4:la:Liste de livres:lists:div:ab:emph:"Rembertus Dodonæus mechliniensis medicus de stirpium historia"
+ p170v_4:la:Liste de livres:lists:div:ab:emph:"Tilesius de coloribus Vascosan"
+ p170v_4:la:Liste de livres:lists:div:ab:emph:"Marmodæus ge de lapillis præciosis"
+ p170v_4:la:Liste de livres:lists:ab:ups:emph:"Albertus magnus de mineralibus"
