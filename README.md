@@ -1,4 +1,6 @@
 # sandbox-projects
+[![DOI](https://zenodo.org/badge/422628795.svg)](https://doi.org/10.5281/zenodo.16755997)
+
 Code, sourcefiles, and data for projects featured in the M&amp;K Sandbox
 
 Directory naming conventions:
